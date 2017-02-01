@@ -1,2 +1,2 @@
-# numberwizard
-A simple game made with Unity.
+# Number Wizard
+Simple number guessing games made with unity
